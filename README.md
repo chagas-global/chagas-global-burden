@@ -5,7 +5,7 @@ All files have been stripped of identifying information and institutional refere
 
 ---
 
-## 🧩 Contents
+## Contents
 
 ### 1. `appendix.html`
 Interactive appendix summarizing supplementary results and figures related to the manuscript *Age-Related Distribution of Chagas Disease Clinical Forms*.  
@@ -54,7 +54,7 @@ It is provided for reproducibility and version control but is not intended for d
 
 ---
 
-## ⚙️ Dependencies
+## Dependencies
 
 To reproduce or inspect the code, install:
 ```bash
@@ -63,7 +63,7 @@ pip install serpapi pandas openpyxl
 
 ---
 
-## 🧠 Methodological Summary
+## Methodological Summary
 
 The supplementary script automates literature searches to parameterize cost inputs for ChD modeling across Latin America.  
 Due to the limited and heterogeneous nature of published studies, most extracted parameters require critical evaluation before inclusion in any analytical framework.  
@@ -71,7 +71,7 @@ The pipeline was designed for reproducibility and minimal human intervention, en
 
 ---
 
-## 🕵️‍♂️ Anonymization Notes
+## Anonymization Notes
 
 - All author names, institutional affiliations, and local file paths have been removed.  
 - Internal directories such as `C:/Users/.../Downloads/` have been replaced with relative file references.  
@@ -79,7 +79,7 @@ The pipeline was designed for reproducibility and minimal human intervention, en
 
 ---
 
-## 📄 License
+## License
 
 This repository is shared for **academic transparency** under a permissive open license.  
 Users are free to inspect, reproduce, or adapt the workflow for research or educational purposes, provided that the original study remains anonymous.
