@@ -28,7 +28,7 @@ A file named `results_google.xlsx` containing six worksheets, one per country.
 
 ---
 
-### 2. `FileS1.xlsx` to `FileS7.xlsx`
+### 2. `FileS1.xlsx`, `FileS5.xlsx` to `FileS7.xlsx`
 Excel workbooks containing supplementary data tables for the study, including:
 - Country-specific cost estimates;
 - Healthcare utilization parameters;
