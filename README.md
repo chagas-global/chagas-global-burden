@@ -38,23 +38,24 @@ Each spreadsheet corresponds to supplementary tables referenced in the manuscrip
 
 ---
 
-### 1. `FileS3.html`
+### 3. `FileS2.pkg`
+Package file generated during the data processing or model-building steps (binary format).  
+It is provided for reproducibility and version control but is not intended for direct editing.
+
+---
+
+### 4. `FileS3.html`
 Interactive appendix summarizing supplementary results and figures related to the manuscript *Age-Related Distribution of Chagas Disease Clinical Forms*.  
 It includes detailed data visualizations, supplementary tables, and references generated via Quarto.
 
 ---
 
-### 4. `FileS4.docx`
+### 5. `FileS4.docx`
 Word document with the textual supplement (“Supplementary Information – Cost Parameter Search Strategy”).  
 It describes the methodology used to compile country-level data, including search logic, inclusion criteria, and limitations.
 
 ---
 
-### 5. `FileS2.pkg`
-Package file generated during the data processing or model-building steps (binary format).  
-It is provided for reproducibility and version control but is not intended for direct editing.
-
----
 
 ## Dependencies
 
