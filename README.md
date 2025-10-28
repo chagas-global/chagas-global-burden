@@ -7,11 +7,7 @@ All files have been stripped of identifying information and institutional refere
 
 ## Contents
 
-### 1. `appendix.html`
-Interactive appendix summarizing supplementary results and figures related to the manuscript *Age-Related Distribution of Chagas Disease Clinical Forms*.  
-It includes detailed data visualizations, supplementary tables, and references generated via Quarto.
-
-### 2. `google_search.py`
+### 1. `google_search.py`
 Python script used to automate the retrieval of bibliographic data from **Google Scholar** via the [SerpAPI](https://serpapi.com).  
 It performs iterative searches for cost-related studies on Chagas Disease in six Latin American countries (Argentina, Bolivia, Colombia, Venezuela, Mexico, and Peru), parses results, and exports them to Excel files.
 
@@ -32,13 +28,19 @@ A file named `results_google.xlsx` containing six worksheets, one per country.
 
 ---
 
-### 3. `FileS1.xlsx` to `FileS7.xlsx`
+### 2. `FileS1.xlsx` to `FileS7.xlsx`
 Excel workbooks containing supplementary data tables for the study, including:
 - Country-specific cost estimates;
 - Healthcare utilization parameters;
 - Sensitivity analyses and robustness checks.
 
 Each spreadsheet corresponds to supplementary tables referenced in the manuscript.
+
+---
+
+### 1. `FileS3.html`
+Interactive appendix summarizing supplementary results and figures related to the manuscript *Age-Related Distribution of Chagas Disease Clinical Forms*.  
+It includes detailed data visualizations, supplementary tables, and references generated via Quarto.
 
 ---
 
